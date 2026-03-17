@@ -1,6 +1,6 @@
 🚀 Full Stack - Módulo HTML
 
-Repositório dedicado aos meus estudos dentro do curso DevQuest Full Stack.
+Repositório dedicado aos meus estudos dentro do curso Full Stack.
 
 Aqui documento minha evolução no módulo de HTML, organizando fundamentos, práticas e exercícios aplicados para construir uma base técnica sólida no desenvolvimento web.
 
