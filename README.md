@@ -1,4 +1,4 @@
-🚀 DevQuest Full Stack - Módulo HTML
+🚀 Full Stack - Módulo HTML
 
 Repositório dedicado aos meus estudos dentro do curso DevQuest Full Stack.
 
