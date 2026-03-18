@@ -1,71 +1,72 @@
-🚀 Full Stack - Módulo HTML
+# 💻 Portfólio de Estudos | HTML e CSS
 
-Repositório dedicado aos meus estudos dentro do curso Full Stack.
+Este repositório reúne meus estudos práticos em desenvolvimento web, com foco em HTML e CSS.  
+Os conteúdos estão organizados em módulos com exercícios aplicados para reforçar o aprendizado.
 
-Aqui documento minha evolução no módulo de HTML, organizando fundamentos, práticas e exercícios aplicados para construir uma base técnica sólida no desenvolvimento web.
+---
 
+## 🚀 Acesse o Portfólio Online
 
-🎯 Objetivo
+👉 **https://annemoura.github.io/Fundamentos-html/**
 
-Desenvolver domínio sobre:
+---
 
-Estrutura básica de documentos HTML
+## 📚 Conteúdos abordados
 
-Tags essenciais
+- Estrutura básica de documentos HTML  
+- Tags essenciais  
+- HTML semântico  
+- Metatags e configuração de páginas  
+- Links, imagens e atributos  
+- Tabelas  
+- Comentários no código  
+- CSS (inline, interno e externo)  
 
-HTML semântico
+---
 
-Metatags e organização de cabeçalho
+## 🗂️ Organização do projeto
 
-Estruturação de conteúdo
+O repositório está dividido em pastas, cada uma representando um tema estudado:
 
-Boas práticas de marcação
+- `atributos-links-imagens`
+- `comentarios`
+- `css-inline-externo-interno`
+- `semantica`
+- `tabelas`
+- `TAGS-ESSENCIAIS`
+- `TAGS-ESTRUTURA-HTML`
+- `METATAGS`
+- `EXERCICIOS-DEV-QUEST`
 
-Este repositório representa minha progressão prática durante a formação Full Stack.
+Cada pasta contém exemplos e exercícios práticos.
 
+---
 
+## 🛠️ Tecnologias utilizadas
 
-📂 Estrutura do Projeto
+- HTML5  
+- CSS3  
 
-O conteúdo está organizado por módulos:
+---
 
-📁 atributos-links-imagens
-📁 comentarios
-📁 css-inline-externo-interno
-📁 fundamentos-html
-📁 metatags
-📁 semantica
-📁 tabelas
-📁 tags-essenciais
-📁 tags-estrutura-html
+## 🎯 Objetivo
 
-Cada diretório contém exemplos e exercícios aplicados.
+Consolidar conhecimentos fundamentais de desenvolvimento web e construir uma base sólida para projetos mais avançados.
 
+---
 
-🛠 Tecnologias Utilizadas
+## 👩‍💻 Sobre mim
 
-HTML5
+Sou estudante de Ciência da Computação, focada em desenvolvimento web e aprendizado prático.  
+Estou em busca de oportunidades como desenvolvedora júnior ou estágio na área.
 
+---
 
-📈 Próximos Passos na Formação
+## 🔗 Contato
 
+- GitHub: https://github.com/annemoura  
+- LinkedIn: https://www.linkedin.com/in/anne-moura-4a4567319  
 
-Integração com CSS
+---
 
-Construção de layouts completos
-
-Aplicação de responsividade
-
-Manipulação de DOM com JavaScript
-
-Desenvolvimento de projetos completos Full Stack
-
-
-👩‍💻 Sobre mim
-
-
-Anne Moura
-Estudante de Ciência da Computação
-Desenvolvedora Full Stack em formação
-
-Construindo base técnica sólida através de prática constante e projetos aplicados.
+✨ Projeto em constante evolução
