@@ -3,115 +3,78 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fundamentos de HTML</title>
+  <title>Portfólio | Anne Moura</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main class="container">
-    <header class="hero">
-      <span class="tag">Projeto de estudo</span>
-      <h1>Fundamentos de HTML</h1>
-      <p class="descricao">
-        Projeto com estudos e práticas sobre HTML, abordando estrutura,
-        semântica, tabelas, links e imagens.
+
+  <header class="hero">
+    <div class="container">
+      <p class="tag">Portfólio de Estudos</p>
+      <h1>Anne Moura</h1>
+      <p class="subtitle">
+        Estudante de Ciência da Computação, desenvolvendo projetos práticos com HTML e CSS.
+        Aqui estão meus exercícios organizados como portfólio.
       </p>
-    </header>
 
-    <section class="conteudos">
-      <h2>📚 Conteúdos</h2>
+      <div class="top-buttons">
+        <a href="https://github.com/annemoura" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/anne-moura-4a4567319" target="_blank">LinkedIn</a>
+      </div>
+    </div>
+  </header>
 
-      <div class="grid-cards">
-        <a href="#tags" class="card">
-          <h3>Tags Essenciais</h3>
-          <p>Conheça as principais tags usadas para montar uma página HTML.</p>
-        </a>
+  <main class="container">
+    <section class="section">
+      <h2>Meus projetos</h2>
 
-        <a href="#estrutura" class="card">
-          <h3>Estrutura HTML</h3>
-          <p>Entenda a base de um documento HTML e sua organização.</p>
-        </a>
+      <div class="grid">
 
-        <a href="#semantica" class="card">
+        <article class="card">
+          <h3>Atributos, Links e Imagens</h3>
+          <p>Uso de links, imagens e atributos HTML.</p>
+          <a href="./atributos-links-imagens/index.html" target="_blank" class="btn">Ver projeto</a>
+        </article>
+
+        <article class="card">
+          <h3>Comentários</h3>
+          <p>Boas práticas de comentários no código.</p>
+          <a href="./comentarios/index.html" target="_blank" class="btn">Ver projeto</a>
+        </article>
+
+        <article class="card">
+          <h3>CSS Inline, Interno e Externo</h3>
+          <p>Diferentes formas de aplicar CSS.</p>
+          <a href="./css-inline-externo-interno/index.html" target="_blank" class="btn">Ver projeto</a>
+        </article>
+
+        <article class="card">
           <h3>Semântica</h3>
-          <p>Aprenda a usar elementos com significado para melhorar o código.</p>
-        </a>
+          <p>Estrutura semântica com header, main e section.</p>
+          <a href="./semantica/index.html" target="_blank" class="btn">Ver projeto</a>
+        </article>
 
-        <a href="#tabelas" class="card">
+        <article class="card">
           <h3>Tabelas</h3>
-          <p>Veja como organizar dados em linhas e colunas.</p>
-        </a>
+          <p>Organização de dados com tabelas HTML.</p>
+          <a href="./tabelas/index.html" target="_blank" class="btn">Ver projeto</a>
+        </article>
 
-        <a href="#links-imagens" class="card">
-          <h3>Links e Imagens</h3>
-          <p>Saiba inserir navegação e elementos visuais na página.</p>
-        </a>
+        <article class="card">
+          <h3>Metatags</h3>
+          <p>Configuração de charset e responsividade.</p>
+          <a href="./METATAGS/index.html" target="_blank" class="btn">Ver projeto</a>
+        </article>
+
+        <article class="card">
+          <h3>Exercícios DevQuest</h3>
+          <p>Lista de exercícios práticos.</p>
+          <a href="./EXERCICIOS-DEV-QUEST/index.html" target="_blank" class="btn">Ver exercícios</a>
+        </article>
+
       </div>
     </section>
-
-    <section class="sobre">
-      <h2>Sobre o projeto</h2>
-      <p>
-        Este projeto foi criado para praticar os fundamentos de HTML e organizar
-        meu aprendizado de forma simples, visual e acessível.
-      </p>
-
-      <h3>Tecnologias usadas</h3>
-      <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-      </ul>
-
-      <a href="https://github.com/annemoura/Fundamentos-html" target="_blank" class="botao">https://github.com/annemoura/Fundamentos-html</a>
-    </section>
-
-    <section id="tags" class="secao-estudo">
-      <h2>Tags Essenciais</h2>
-      <p>
-        Algumas tags muito usadas no HTML são:
-        <code>&lt;h1&gt;</code>, <code>&lt;p&gt;</code>, <code>&lt;a&gt;</code>,
-        <code>&lt;img&gt;</code>, <code>&lt;div&gt;</code> e <code>&lt;section&gt;</code>.
-      </p>
-    </section>
-
-    <section id="estrutura" class="secao-estudo">
-      <h2>Estrutura HTML</h2>
-      <p>
-        Todo documento HTML começa com <code>&lt;!DOCTYPE html&gt;</code>,
-        seguido por <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code> e
-        <code>&lt;body&gt;</code>.
-      </p>
-    </section>
-
-    <section id="semantica" class="secao-estudo">
-      <h2>Semântica</h2>
-      <p>
-        Tags semânticas como <code>&lt;header&gt;</code>, <code>&lt;main&gt;</code>,
-        <code>&lt;section&gt;</code> e <code>&lt;footer&gt;</code> ajudam a dar
-        significado ao conteúdo da página.
-      </p>
-    </section>
-
-    <section id="tabelas" class="secao-estudo">
-      <h2>Tabelas</h2>
-      <p>
-        Tabelas são usadas para exibir dados organizados em linhas e colunas,
-        com tags como <code>&lt;table&gt;</code>, <code>&lt;tr&gt;</code>,
-        <code>&lt;th&gt;</code> e <code>&lt;td&gt;</code>.
-      </p>
-    </section>
-
-    <section id="links-imagens" class="secao-estudo">
-      <h2>Links e Imagens</h2>
-      <p>
-        Links permitem navegar entre páginas usando a tag
-        <code>&lt;a&gt;</code>, e imagens são inseridas com a tag
-        <code>&lt;img&gt;</code>.
-      </p>
-    </section>
-
-    <footer class="rodape">
-      <p>Desenvolvido por Anne Moura 💙</p>
-    </footer>
   </main>
+
 </body>
 </html>
