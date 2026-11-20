@@ -1,72 +1,54 @@
-# 💻 Portfólio de Estudos | HTML e CSS
+# Fundamentos de HTML
 
-Este repositório reúne meus estudos práticos em desenvolvimento web, com foco em HTML e CSS.  
-Os conteúdos estão organizados em módulos com exercícios aplicados para reforçar o aprendizado.
+Repositório de estudos práticos de **HTML5 e fundamentos de desenvolvimento web**, organizado por temas e exercícios. O objetivo é registrar a evolução dos estudos e consolidar os conceitos por meio de exemplos.
 
----
+**[Acessar conteúdo publicado](https://annemoura.github.io/Fundamentos-html/)** · **[Ver código-fonte](https://github.com/annemoura/Fundamentos-html)**
 
-## 🚀 Acesse o Portfólio Online
+## Conteúdos estudados
 
-👉 **https://annemoura.github.io/Fundamentos-html/**
+- Estrutura básica de documentos HTML.
+- Tags e elementos essenciais.
+- HTML semântico.
+- Metatags e configuração de páginas.
+- Links, imagens e atributos.
+- Tabelas.
+- Comentários no código.
+- Formas de aplicar CSS: inline, interno e externo.
 
----
+## Organização do repositório
 
-## 📚 Conteúdos abordados
+Os exemplos estão separados por assunto:
 
-- Estrutura básica de documentos HTML  
-- Tags essenciais  
-- HTML semântico  
-- Metatags e configuração de páginas  
-- Links, imagens e atributos  
-- Tabelas  
-- Comentários no código  
-- CSS (inline, interno e externo)  
+| Diretório | Conteúdo |
+|---|---|
+| `atributos-links-imagens` | Atributos, links e imagens |
+| `comentarios` | Comentários no código |
+| `css-inline-externo-interno` | Formas de aplicar CSS |
+| `semantica` | Elementos semânticos |
+| `tabelas` | Estruturação de tabelas |
+| `TAGS-ESSENCIAIS` | Tags HTML essenciais |
+| `TAGS-ESTRUTURA-HTML` | Estrutura de documentos HTML |
+| `METATAGS` | Metadados de páginas |
+| `EXERCICIOS-DEV-QUEST` | Exercícios práticos |
 
----
+Cada diretório reúne exemplos e atividades relacionados ao tema.
 
-## 🗂️ Organização do projeto
+## Tecnologias
 
-O repositório está dividido em pastas, cada uma representando um tema estudado:
+- HTML5
+- CSS3
 
-- `atributos-links-imagens`
-- `comentarios`
-- `css-inline-externo-interno`
-- `semantica`
-- `tabelas`
-- `TAGS-ESSENCIAIS`
-- `TAGS-ESTRUTURA-HTML`
-- `METATAGS`
-- `EXERCICIOS-DEV-QUEST`
+## Objetivo de aprendizado
 
-Cada pasta contém exemplos e exercícios práticos.
+Construir uma base sólida em HTML, compreender a estrutura e a semântica de páginas web e praticar a organização de conteúdo antes de avançar para interfaces mais complexas.
 
----
+## Autoria
 
-## 🛠️ Tecnologias utilizadas
+Desenvolvido por **Anne Moura**, estudante de Ciência da Computação e desenvolvedora em formação.
 
-- HTML5  
-- CSS3  
-
----
-
-## 🎯 Objetivo
-
-Consolidar conhecimentos fundamentais de desenvolvimento web e construir uma base sólida para projetos mais avançados.
+- [GitHub](https://github.com/annemoura)
+- [LinkedIn](https://www.linkedin.com/in/aryane-moura-4a4567319/)
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Sou estudante de Ciência da Computação, focada em desenvolvimento web e aprendizado prático.  
-Estou em busca de oportunidades como desenvolvedora júnior ou estágio na área.
-
----
-
-## 🔗 Contato
-
-- GitHub: https://github.com/annemoura  
-- LinkedIn: https://www.linkedin.com/in/anne-moura-4a4567319  
-
----
-
-✨ Projeto em constante evolução
+Repositório de estudos em constante evolução.
